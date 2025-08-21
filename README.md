@@ -36,4 +36,4 @@ Atualmente trabalho com **React.js, Node.js, TypeScript, .NET MAUI e SQL Server*
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suellenraysa)
 
 ---
-⭐️ Inspirada em perfis como o do [wellminozzo](https://github.com/wellminozzo)
+⭐️ A Ele todo o louvor 🙇‍♀️
